@@ -77,7 +77,7 @@ The Haptique Remote includes 8 individually addressable RGB lights with support 
 ### 📁 Setup
 
 Include the `RGBLight.java` file in your Android project.  
-*(You can host the file and provide a download link here)*
+
 
 ---
 
